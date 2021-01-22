@@ -1,0 +1,11 @@
+security:
+  oauth2:
+    client:
+      access-token-uri: https://github.com/login/oauth/access_token
+      user-authorization-uri: https://github.com/login/oauth/authorize
+      authentication-scheme: form
+      client-id: 92f7d0c0ce151584843b
+      client-secret: 26ed594030f944297b2838631be5f8a918adaf3f
+    resource:
+      user-info-uri: https://api.github.com/user
+      prefer-token-info: false

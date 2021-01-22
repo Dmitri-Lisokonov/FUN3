@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e60202df-a118-4a8d-85c3-06df1e09d27e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../fun3_kochfractal/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/edges/Calculatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/interfaces/IEdgeCalculatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/interfaces/ISubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/BottomCalculatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/edges/BottomCalculatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/edges/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/KochFractal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/KochFractal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/KochManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/KochManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/LeftCalculatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/edges/LeftCalculatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/interfaces/IObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/RightCalculatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/edges/RightCalculatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/calculate/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/fun3kochfractalfx/FUN3KochFractalFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/fun3kochfractalfx/FUN3KochFractalFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/timeutil/TimeStamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/src/main/java/timeutil/TimeStamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/BottomCalculatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/KochFractal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/KochFractal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/KochManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/KochManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/LeftCalculatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/RightCalculatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/calculate/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/fun3kochfractalfx/FUN3KochFractalFX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/timeutil/TimeStamp$Period.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/timeutil/TimeStamp$Period.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/timeutil/TimeStamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fun3_kochfractal/target/classes/timeutil/TimeStamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myanimalshelter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myanimalshelter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myanimalshelter/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myanimalshelter/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myanimalshelter/target/test-classes/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../myanimalshelter/target/test-classes/CalculatorTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSZkMLZbLRdidIPcMmGWP6kVsW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.Opdracht2Test">
+    <configuration name="Opdracht1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="memory-and-heap-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.fhict.s3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.fhict.s3" />
+      <option name="MAIN_CLASS_NAME" value="nl.fhict.s3.Opdracht1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="memory-and-heap-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.fhict.s3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.fhict.s3" />
+      <option name="MAIN_CLASS_NAME" value="nl.fhict.s3.Opdracht2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht2Test.bitVariantTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="memory-and-heap-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.fhict.s3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.fhict.s3" />
+      <option name="MAIN_CLASS_NAME" value="nl.fhict.s3.Opdracht2Test" />
+      <option name="METHOD_NAME" value="bitVariantTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht2Test.boolVariantOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="memory-and-heap-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.fhict.s3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.fhict.s3" />
+      <option name="MAIN_CLASS_NAME" value="nl.fhict.s3.Opdracht2Test" />
+      <option name="METHOD_NAME" value="boolVariantOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht2Test.boolVariantTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="memory-and-heap-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.fhict.s3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.fhict.s3" />
+      <option name="MAIN_CLASS_NAME" value="nl.fhict.s3.Opdracht2Test" />
+      <option name="METHOD_NAME" value="boolVariantTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Opdracht2Test" />
+        <item itemvalue="JUnit.Opdracht1Test" />
+        <item itemvalue="JUnit.Opdracht2Test.boolVariantTwo" />
+        <item itemvalue="JUnit.Opdracht2Test.boolVariantOne" />
+        <item itemvalue="JUnit.Opdracht2Test.bitVariantTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60202df-a118-4a8d-85c3-06df1e09d27e" name="Default Changelist" comment="" />
+      <created>1601903095872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601903095872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1602016168039">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1602016168039" />
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1601940427060" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1602016168039">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1602016168039" />
+    <state width="1877" height="225" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1601940427060" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1602016168038">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1602016168038" />
+    <state width="1877" height="225" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1601940427060" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1602016168039">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050/1920.30.1920.1050@0.30.1920.1050" timestamp="1602016168039" />
+    <state width="1877" height="225" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1601940427060" />
+  </component>
+</project>
